@@ -1,11 +1,16 @@
 # ARIMA-information-in-stock-market
 
+****Read This File in a code mode, not in a main page or preview mode.****
+
+
+
+
 This project is about testing the Efficient Market Hypothesis by Eugene Fama.
 Stock price regression model with and without variable ‘information’ is compared through Python and R code. Data from 4 companies are used. 
 Stock price data were collected through Investing.com
 
 Berkshire Hathaway: representing firms that are prospected to have low volatility due to information changes.
- Nvidia: representing the technology sector with low volatility.
+Nvidia: representing the technology sector with low volatility.
 Tesla: representing firms that are prospected to have high volatility due to information changes.
 Google: representing the technology sector with low volatility due to information changes.
 
@@ -90,7 +95,6 @@ df.to_csv('sentiment_analysis_Apple.csv', encoding='utf-8-sig', index=False)
 
 print('CSV ready')
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 1-2  For any company, multiple articles can be published in a single day. 
 This code will merge the total sentiment for each day and simplify the files.
