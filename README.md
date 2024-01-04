@@ -1,6 +1,7 @@
 # ARIMA-information-in-stock-market
 
 ****Read This File in a code mode, not in a main page or preview mode.****
+****Click the Readme file, then click 'code'****
 
 
 
